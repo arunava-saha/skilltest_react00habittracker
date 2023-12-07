@@ -6,7 +6,7 @@ You can specify the days of the week to perform the certain habit and the deadli
 
 **You can add a goal to complete one of your habits by a certain date**. You can specify the maximum number of habit skips allowed.
 
-[Try the app demo](https://daily-habit-tracker-indol.vercel.app/) running on Vercel.
+[Try the app demo](https://skilltest-react00habittracker.vercel.app/) running on Vercel.
 
 ## Application demo
 
@@ -28,13 +28,14 @@ You can specify the days of the week to perform the certain habit and the deadli
 
 ## Installation
 
-1. Install Node.js *(in case you haven't installed it)*.
-2. [Download the source code](https://github.com/IhorAntiukhov/daily-habit-tracker.git) and open a command prompt in the project's root folder.
+1. Install Node.js _(in case you haven't installed it)_.
+2. [Download the source code](https://github.com/arunava-saha/skilltest_react00habittracker.git) and open a command prompt in the project's root folder.
 3. Install the dependencies needed for the application.
 
 ```
 npm install
 ```
+
 4. Start React project and development server.
 
 ```
